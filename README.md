@@ -1,7 +1,7 @@
 # Drug Shortage & Supply Risk Dashboard
 
 ## Project Overview
-This project analyzes U.S. FDA drug shortage data to identify current supply issues, affected drugs, manufacturers, therapeutic categories, and reported causes of shortages. This is an interactive Power BI dashboard that transforms raw shortage data into a structured view of supply risk, with filters that allow users to explore patterns by company, shortage status, and therapeutic category.
+This project analyzes U.S. FDA drug shortage data to identify current supply issues, affected drugs, manufacturers, therapeutic categories, and reported causes of shortages. I built an interactive Power BI dashboard that transforms raw shortage data into a structured view of supply risk, with filters that allow users to explore patterns by company, shortage status, and therapeutic category.
 
 
 ## Business Question
